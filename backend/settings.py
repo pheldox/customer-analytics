@@ -26,7 +26,7 @@ SECRET_KEY = 'm=y=&f6v2%$i(2j3+t=x3lxf_j&5zg(7k(06gz&=2^7ss$&lt('
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'localhost']
+ALLOWED_HOSTS = ['127.0.0.1', 'localhost', 'analyticspheldox.herokuapp.com']
 
 
 # Application definition
